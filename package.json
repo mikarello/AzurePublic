@@ -1,6 +1,6 @@
 {
   "name": "Azure Card Bot",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "description": "card game calculator",
   "main": "index.js",
   "dependencies": {
@@ -16,6 +16,6 @@
   "keywords": [
     "mp3"
   ],
-  "author": "Michelle Watford/Dalibor Trampota",
+  "author": "Michelle Watford/Dalibor Trampota/Oleksandr Gusar",
   "license": ""
 }
