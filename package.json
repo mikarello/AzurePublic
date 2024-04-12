@@ -1,0 +1,21 @@
+{
+  "name": "Azure Card Bot",
+  "version": "2.0.0",
+  "description": "card game calculator",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "canvas": "^2.11.2",
+    "discord.js": "^13.16.0",
+    "mongoose": "^6.12.0",
+    "os-utils": "^0.0.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mp3"
+  ],
+  "author": "Michelle Watford/Dalibor Trampota",
+  "license": ""
+}
